@@ -1,10 +1,10 @@
-# ReactJs & Tailwind-CSS Real Estate Frontend Project
+# Real estate management system
 
 # Description:
-Welcome to our cutting-edge Real Estate Frontend Project, specially crafted for Private Engineering and IIT, NIT, MIT students! This innovative web application showcases the perfect amalgamation of ReactJs and Tailwind-CSS, providing an unparalleled user experience for exploring the world of real estate.
+Welcome to our cutting-edge Real Estate Frontend Project, This innovative web application showcases the perfect amalgamation of ReactJs and Tailwind-CSS, providing an unparalleled user experience for exploring the world of real estate.
 
 # Overview:
-Our Real Estate Frontend Project is designed to cater to the modern needs of the real estate industry while catering to the technological aspirations of students. As a frontend-focused project, it serves as an ideal platform for students to hone their ReactJs and Tailwind-CSS skills while delving into the intricacies of real estate management.
+Our Real Estate Frontend Project is designed to cater to the modern needs of the real estate industry while catering to the technological aspirations . As a frontend-focused project, it serves as an ideal platform for students to hone their ReactJs and Tailwind-CSS skills while delving into the intricacies of real estate management.
 
 # Key Features:
 1. Intuitive User Interface: The frontend boasts a sleek and intuitive user interface, ensuring that users have a seamless and engaging experience when browsing through properties.
